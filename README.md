@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:071A12,70:00FF88,100:00D9FF&height=200&section=header&text=BRENER%20GOMES&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Building%20the%20Future%20with%20Code%20%26%20AI&descAlignY=58&descSize=16" width="100%"/>
+<img src="./assets/header.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Software+Engineering+Student;Building+Intelligent+Solutions;Turning+Ideas+Into+Technology" alt="Typing SVG" />
 
