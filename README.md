@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/header.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:071A12,70:00FF88,100:00D9FF&height=200&section=header&text=BRENER%20GOMES&fontSize=45&fontColor=FFFFFF&fontAlignY=38" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Software+Engineering+Student;Building+Intelligent+Solutions;Turning+Ideas+Into+Technology" alt="Typing SVG" />
 
@@ -53,7 +53,7 @@ Acredito na integração entre **Software Engineering + Artificial Intelligence*
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript" />
 
 </div>
 
@@ -61,7 +61,7 @@ Acredito na integração entre **Software Engineering + Artificial Intelligence*
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=django,flask,nodejs,nestjs" />
+<img src="https://skillicons.dev/icons?i=django,nodejs,nestjs" />
 
 </div>
 
@@ -69,7 +69,7 @@ Acredito na integração entre **Software Engineering + Artificial Intelligence*
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=react,angular,html,css,figma" />
+<img src="https://skillicons.dev/icons?i=react,html,css,figma" />
 
 </div>
 
@@ -166,11 +166,6 @@ Aplicação mobile para gerenciamento de viagens, condutores, veículos, agênci
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenergs&show_icons=true&count_private=true&hide_border=true&bg_color=050505&title_color=00FF88&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenergs&layout=compact&hide_border=true&bg_color=050505&title_color=00FF88&text_color=FFFFFF"/>
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=brenergs&theme=transparent&hide_border=true&background=050505&ring=00FF88&fire=00D9FF&currStreakLabel=00FF88&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
 
